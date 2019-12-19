@@ -1,0 +1,44 @@
+{
+    "name": "Panamax Project",
+    "description": "<p>An open-source project that makes deploying complex containerized apps as easy as Drag-and-Drop. Panamax is a containerized app creator with an open-source app marketplace hosted in GitHub. Panamax provides a friendly interface for users of Docker, Fleet &amp; CoreOS. With Panamax, you can easily create, share and deploy any containerized app no matter how complex it might be.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/panamax-logo.png",
+    "tags": [
+        "containers",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/panamax-project\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Panamax Project",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/panamax-logo.png",
+            "humanURL": "http:\/\/panamax.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/panamax-project-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/CenturyLinkLabs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/panamax_io"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/panamax.io\/"
+        }
+    ]
+}
